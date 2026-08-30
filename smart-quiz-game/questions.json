@@ -1,0 +1,332 @@
+[
+  {
+    "question": "What does CPU stand for in computer hardware?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Core Processing Unit"
+    ],
+    "correct_answer": "Central Processing Unit",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which programming language is commonly known for its clean syntax and uses indentation for code blocks?",
+    "options": [
+      "Python",
+      "C++",
+      "Assembly",
+      "PHP"
+    ],
+    "correct_answer": "Python",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the result of 15 + 27 in basic arithmetic?",
+    "options": [
+      "42",
+      "32",
+      "45",
+      "52"
+    ],
+    "correct_answer": "42",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the standard file extension used for Python source files?",
+    "options": [
+      ".py",
+      ".python",
+      ".pt",
+      ".p"
+    ],
+    "correct_answer": ".py",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which planet in our solar system is closest to the Sun?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Earth"
+    ],
+    "correct_answer": "Mercury",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the primary function of RAM in a personal computer?",
+    "options": [
+      "Temporary high-speed memory for running programs",
+      "Permanent long-term file storage",
+      "Powering the motherboard",
+      "Rendering 3D graphics only"
+    ],
+    "correct_answer": "Temporary high-speed memory for running programs",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which HTML tag is used to create a hyperlink on a webpage?",
+    "options": [
+      "<a>",
+      "<link>",
+      "<href>",
+      "<p>"
+    ],
+    "correct_answer": "<a>",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the chemical formula for pure water?",
+    "options": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "correct_answer": "H2O",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In Python, which function is used to output text to the console?",
+    "options": [
+      "print()",
+      "echo()",
+      "console.log()",
+      "printf()"
+    ],
+    "correct_answer": "print()",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How many days are in a leap year?",
+    "options": [
+      "366",
+      "365",
+      "364",
+      "360"
+    ],
+    "correct_answer": "366",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which Python built-in data type is immutable?",
+    "options": [
+      "tuple",
+      "list",
+      "dict",
+      "set"
+    ],
+    "correct_answer": "tuple",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the time complexity of searching an element in a balanced Binary Search Tree (BST)?",
+    "options": [
+      "O(log n)",
+      "O(n)",
+      "O(1)",
+      "O(n^2)"
+    ],
+    "correct_answer": "O(log n)",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does HTTP stand for in computer networking?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "Hyperlink Text Transport Process",
+      "High Transmission Transit Protocol",
+      "Host Terminal Transfer Provider"
+    ],
+    "correct_answer": "HyperText Transfer Protocol",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the value of 2 ** 4 in Python?",
+    "options": [
+      "16",
+      "8",
+      "6",
+      "64"
+    ],
+    "correct_answer": "16",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which data structure operates on a Last-In, First-Out (LIFO) principle?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Linked List",
+      "Array"
+    ],
+    "correct_answer": "Stack",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the standard port number for secure web browsing using HTTPS?",
+    "options": [
+      "443",
+      "80",
+      "22",
+      "8080"
+    ],
+    "correct_answer": "443",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In Python, which keyword is used to handle exceptions?",
+    "options": [
+      "except",
+      "catch",
+      "trap",
+      "handle"
+    ],
+    "correct_answer": "except",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the binary representation of the decimal number 13?",
+    "options": [
+      "1101",
+      "1011",
+      "1110",
+      "1001"
+    ],
+    "correct_answer": "1101",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which sorting algorithm has an average time complexity of O(n log n)?",
+    "options": [
+      "Merge Sort",
+      "Bubble Sort",
+      "Insertion Sort",
+      "Selection Sort"
+    ],
+    "correct_answer": "Merge Sort",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What does the 'len()' function return when passed a Python dictionary?",
+    "options": [
+      "The number of key-value pairs",
+      "The size in bytes",
+      "The total number of characters in keys",
+      "The highest numeric key value"
+    ],
+    "correct_answer": "The number of key-value pairs",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In Python's Global Interpreter Lock (GIL), what is its primary role in CPython?",
+    "options": [
+      "Ensures only one thread executes Python bytecode at a time",
+      "Prevents memory leaks in circular references",
+      "Accelerates numerical computations across all CPU cores",
+      "Translates Python code to machine code ahead of time"
+    ],
+    "correct_answer": "Ensures only one thread executes Python bytecode at a time",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the worst-case time complexity of QuickSort when using a naive pivot selection on a sorted array?",
+    "options": [
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "correct_answer": "O(n^2)",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In TCP/IP networking, what is the sequence of packets in the standard TCP 3-way handshake?",
+    "options": [
+      "SYN, SYN-ACK, ACK",
+      "ACK, SYN, SYN-ACK",
+      "SYN, ACK, FIN",
+      "CONNECT, ACCEPT, ACK"
+    ],
+    "correct_answer": "SYN, SYN-ACK, ACK",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In Python, which dunder method is called when an object is used inside a 'with' statement context manager?",
+    "options": [
+      "__enter__",
+      "__init__",
+      "__open__",
+      "__start__"
+    ],
+    "correct_answer": "__enter__",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which of the following problems is proven to be undecidable in theoretical computer science?",
+    "options": [
+      "Halting Problem",
+      "Traveling Salesperson Problem",
+      "Boolean Satisfiability (SAT)",
+      "Graph Coloring Problem"
+    ],
+    "correct_answer": "Halting Problem",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the output of bool([]) == bool([False]) in Python?",
+    "options": [
+      "False",
+      "True",
+      "TypeError",
+      "None"
+    ],
+    "correct_answer": "False",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In database systems, what does the 'I' in the ACID properties guarantee?",
+    "options": [
+      "Isolation of concurrent transactions",
+      "Integrity of foreign keys",
+      "Immutability of commit logs",
+      "Indexing speed of queries"
+    ],
+    "correct_answer": "Isolation of concurrent transactions",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the time complexity of looking up a key in a well-distributed Hash Table on average?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correct_answer": "O(1)",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In Python generator functions, which keyword pauses execution and yields a value back to the caller?",
+    "options": [
+      "yield",
+      "return",
+      "pause",
+      "send"
+    ],
+    "correct_answer": "yield",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the maximum number of edges in a simple undirected graph with 'n' vertices?",
+    "options": [
+      "n * (n - 1) / 2",
+      "n * (n - 1)",
+      "2^n",
+      "n^2"
+    ],
+    "correct_answer": "n * (n - 1) / 2",
+    "difficulty": "Hard"
+  }
+]

@@ -1,0 +1,8 @@
+# Smart Quiz Game - Dependencies
+# This project uses ONLY Python 3 standard library modules:
+# - tkinter (GUI)
+# - json (Question storage)
+# - random (Randomization)
+# - os / sys (File paths & system utilities)
+#
+# No external pip packages are required!
